@@ -19,3 +19,10 @@
 HTML, CSS Grid, Flexbox, CSS-переменные, медиазапросы и JavaScript из стартового шаблона.
 
 Репозиторий: https://github.com/Nikita-Link/slozhno-sosredotochitsya-ad
+
+## Сдача на elearn
+
+Для загрузки используйте ZIP-архив папки проекта. В папке должны находиться
+`index.html`, `README.md` и каталоги `styles`, `scripts`, `fonts`, `images`.
+Сохраняйте эту структуру: HTML использует относительные пути к файлам.
+После распаковки откройте `index.html` в браузере.
